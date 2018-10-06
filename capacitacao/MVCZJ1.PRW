@@ -282,11 +282,30 @@ static function envPend(aEmail)
 
 return
 
+
+/*/{Protheus.doc} fSolDocs
+//TODO Descrição auto-gerada.
+@author Daniel
+@since 06/10/2018
+@version 1.0
+@return ${return}, ${return_description}
+
+@type function
+/*/
 static Function fSolDocs()
 	msgAlert("Em desenvolvimento")
 return
 
 
+/*/{Protheus.doc} fFinanc
+//TODO Descrição auto-gerada.
+@author Daniel
+@since 06/10/2018
+@version 1.0
+@return ${return}, ${return_description}
+
+@type function
+/*/
 static Function fFinanc()
 	msgAlert("Em desenvolvimento")
 return
